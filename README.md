@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Rahul Jaat  
+## 💬 About Me
 
-🌟 Passionate **Full Stack Developer** | 💻 Skilled in **Java, Spring Boot, .NET Core, React, HTML, CSS, MongoDB**  
-🚀 Building projects with **clean UI + strong backend**  
+Hi! I'm **Rahul Choudhary**, a passionate Full Stack Developer.  
+I love building **modern, responsive, and user-friendly web applications** using **HTML, CSS, JavaScript, React, Spring, and Spring Boot**.  
 
+I enjoy solving problems on **LeetCode** and **HackerRank**, and I'm always learning new technologies to improve my skills.  
 
----
+This portfolio showcases my **projects, skills, and experience**. Feel free to explore and connect with me!  
+
+**Key Skills:**  
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Java, Spring, Spring Boot  
+- Databases: MySQL, MongoDB  
+- Tools: Git, GitHub, Eclipse, VS Code  
+
 
 
 
