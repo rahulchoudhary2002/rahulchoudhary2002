@@ -7,13 +7,12 @@
 
 ## 📈 GitHub Stats Summary  
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahuljaat&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchoudhary2002&show_icons=true&theme=tokyonight)  
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahuljaat&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahuljaat&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchoudhary2002&layout=compact&theme=tokyonight)  
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahuljaat&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahuljaat&theme=radical&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulchoudhary2002&theme=tokyonight)  
+
 
 ---
 
