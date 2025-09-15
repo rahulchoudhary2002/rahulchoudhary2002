@@ -36,11 +36,19 @@ This portfolio showcases my **projects, skills, and experience**. Feel free to e
 
 ## 📈 GitHub Stats Summary  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchoudhary2002&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulchoudhary2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=ffb86c" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchoudhary2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff" height="180em" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchoudhary2002&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://git-hub-streak-stats.vercel.app/?user=rahulchoudhary2002&theme=tokyonight&hide_border=true&background=0d1117" height="180em" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulchoudhary2002&theme=tokyonight)  
+
+
+
+
 
 ---
 
