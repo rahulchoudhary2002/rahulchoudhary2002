@@ -29,7 +29,7 @@ This portfolio showcases my **projects, skills, and experience**. Feel free to e
 - Spring & Spring Boot  
 - Git & GitHub  
 - VS Code / Eclipse  
-- Node.js & npm (for React build)
+
 
 ---
 
