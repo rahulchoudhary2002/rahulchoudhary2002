@@ -48,7 +48,7 @@ This portfolio showcases my **projects, skills, and experience**. Feel free to e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchoudhary2002&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+--
 
 ## 🌍 Connect With Me  
 
