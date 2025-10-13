@@ -30,8 +30,7 @@ This portfolio showcases my **projects, skills, and experience**. Feel free to e
 - Git & GitHub  
 - VS Code / Eclipse  
 
-
----
+ 
 
 ## 📈 GitHub Stats Summary  
 
