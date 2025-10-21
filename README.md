@@ -8,6 +8,7 @@ I enjoy solving problems on **LeetCode** and **HackerRank**, and I'm always lear
 This portfolio showcases my **projects, skills, and experience**. Feel free to explore and connect with me!  
 
 **Key Skills:**  
+
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Java, Spring, Spring Boot  
 - Databases: MySQL, MongoDB  
