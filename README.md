@@ -11,7 +11,7 @@ This portfolio showcases my **projects, skills, and experience**. Feel free to e
 
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Java, Spring, Spring Boot  
-- Databases: MySQL, MongoDB  
+- Databases: MySQL
 - Tools: Git, GitHub, Eclipse, VS Code  
 
 
